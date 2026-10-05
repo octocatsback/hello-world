@@ -1,0 +1,8 @@
+$ smimesign --list-keys
+             ID: 0ff455a2708394633e4bb2f88002e3cd80cbd76f
+            S/N: a2dfa7e8c9c4d1616f1009c988bb70f
+      Algorithm: SHA256-RSA
+       Validity: 2017-11-22 00:00:00 +0000 UTC - 2020-11-22 12:00:00 +0000 UTC
+         Issuer: CN=DigiCert SHA2 Assured ID CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+        Subject: CN=Octocat,O=GitHub\, Inc.,L=San Francisco,ST=California,C=US
+         Emails: octocat@github.com
